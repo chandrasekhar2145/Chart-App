@@ -68,5 +68,5 @@ This is a React.js application that displays a chart using the Recharts library.
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/chandrasekhar2145/Chart-App.git>
    cd react-charting-app
